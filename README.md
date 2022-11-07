@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Security & Monitoring
-![](https://img.shields.io/badge/Sentry-Error_Tracker-informational?style=flat-square&logo=sentry&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/SonarQube-Quality_Tracker-informational?style=flat-square&logo=sonarqube&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Vault-Secrets_Storage-informational?style=flat-square&logo=vault&logoColor=white&color=2bbc8a)
 
 #### DevOps
@@ -32,4 +30,3 @@ Here are some ideas to get you started:
 #### Cloud Providers
 ![](https://img.shields.io/badge/Digital_Ocean-Cloud-informational?style=flat-square&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/AWS-Cloud-informational?style=flat-square&logo=amazonaws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Azure-Cloud-informational?style=flat-square&logo=microsoftazure&logoColor=white&color=2bbc8a)
