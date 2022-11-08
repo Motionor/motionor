@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Operate and maintain dev, stage, and production environments;   
+Troubleshoot local dev environments;  
+Automate routine DevOps activities;  
+Maintain the existing release process under mentor supervision;  
+Maintain monitoring, log, and error reporting systems.  
 <!--
 **Motionor/motionor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
