@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a Junior Devops engineer seeking for the opportunities for further growth
+
 ## Skills & specialization
 
 - **Docker** [![Docker](https://raw.githubusercontent.com/vladyslavvolkov/vladyslavvolkov/master/icons/docker.svg)](https://github.com/docker)
