@@ -1,25 +1,28 @@
-### Hi there 👋
+## Hi there 👋
 
-Operate and maintain dev, stage, and production environments;   
-Troubleshoot local dev environments;  
-Automate routine DevOps activities;  
-Maintain the existing release process under mentor supervision;  
-Maintain monitoring, log, and error reporting systems.  
-<!--
-**Motionor/motionor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills & specialization
 
-Here are some ideas to get you started:
+- **Docker** [![Docker](https://raw.githubusercontent.com/vladyslavvolkov/vladyslavvolkov/master/icons/docker.svg)](https://github.com/docker)
+- **CI/CD**
+- **Helm** [![Helm](https://raw.githubusercontent.com/vladyslavvolkov/vladyslavvolkov/master/icons/helm.svg)](https://github.com/helm)
+- **Git**
+- **Digital Ocean** [![DigitalOcean](https://raw.githubusercontent.com/vladyslavvolkov/vladyslavvolkov/master/icons/digitalocean.svg)](https://github.com/digitalocean)
+- **AWS**
+- **Terraform** [![Terraform](https://raw.githubusercontent.com/vladyslavvolkov/vladyslavvolkov/master/icons/terraform.svg)](https://github.com/hashicorp/terraform)
+- **Kubernetes**
+- **Github actions**
+- **bash**
+- **Prometheus**
+- **Minikube**
+- **Lens**
+- **Skaffold**
+- **Docker Compose**
+- **Harbor** [![Harbor](https://raw.githubusercontent.com/vladyslavvolkov/vladyslavvolkov/master/icons/harbor.svg)](https://github.com/harbor)
+- **AWA** [![AWS](https://raw.githubusercontent.com/vladyslavvolkov/vladyslavvolkov/master/icons/aws.svg)](https://github.com/aws)
+- **Tooling**: [![Gradle](https://raw.githubusercontent.com/vladyslavvolkov/vladyslavvolkov/master/icons/gradle.svg)](https://github.com/gradle)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-#### Security & Monitoring
+
+## Security & Monitoring
 ![](https://img.shields.io/badge/Vault-Secrets_Storage-informational?style=flat-square&logo=vault&logoColor=white&color=2bbc8a)
 
 #### DevOps
