@@ -7,7 +7,6 @@
 - **Helm** [![Helm](https://raw.githubusercontent.com/vladyslavvolkov/vladyslavvolkov/master/icons/helm.svg)](https://github.com/helm)
 - **Git**
 - **Digital Ocean** [![DigitalOcean](https://raw.githubusercontent.com/vladyslavvolkov/vladyslavvolkov/master/icons/digitalocean.svg)](https://github.com/digitalocean)
-- **AWS**
 - **Terraform** [![Terraform](https://raw.githubusercontent.com/vladyslavvolkov/vladyslavvolkov/master/icons/terraform.svg)](https://github.com/hashicorp/terraform)
 - **Kubernetes**
 - **Github actions**
