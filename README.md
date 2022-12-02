@@ -17,7 +17,7 @@
 - **Skaffold**
 - **Docker Compose**
 - **Harbor** [![Harbor](https://raw.githubusercontent.com/vladyslavvolkov/vladyslavvolkov/master/icons/harbor.svg)](https://github.com/harbor)
-- **AWA** [![AWS](https://raw.githubusercontent.com/vladyslavvolkov/vladyslavvolkov/master/icons/aws.svg)](https://github.com/aws)
+- **AWS** [![AWS](https://raw.githubusercontent.com/vladyslavvolkov/vladyslavvolkov/master/icons/aws.svg)](https://github.com/aws)
 - **Tooling**: [![Gradle](https://raw.githubusercontent.com/vladyslavvolkov/vladyslavvolkov/master/icons/gradle.svg)](https://github.com/gradle)
 
 
